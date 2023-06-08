@@ -39,9 +39,5 @@ I create convenient and stylish sites for your needs. Each of my jobs is a way t
 
 <a href="https://github.com/paul-antonenko" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paul-antonenko&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Support Me
-
-<a href="https://www.buymeacoffee.com/p"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
 
 
