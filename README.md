@@ -35,8 +35,7 @@
 
 ### 🏆 Certifications
 [![AWS Certified Solutions Architect Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/12345678-abc1-1234-5678-abc123456789/public_url)
-[![HashiCorp Certified: Terraform Associate](https://images.credly.com/size/110x110/images/5c2c4e90-...-9d0a7b5b5b0a/image.png)](https://www.credly.com/badges/87654321-zyx9-8765-4321-zyx987654321/public_url)
-[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-...-16d2c6c4e66a/image.png)](https://www.credly.com/badges/11223344-cde5-6677-8899-cde511223344/public_url)
+[![HashiCorp Certified: Terraform Associate](https://images.credly.com/size/680x680/images/f25ec9d4-c59d-49b9-944a-f160012e81cd/image.png)
 
 ---
 
