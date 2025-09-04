@@ -40,18 +40,16 @@
 
 ---
 
+### 🚀 My Featured Projects
+
+- **[CloudNexus](https://github.com/cicero-w/devops-portfolio-project)** - End-to-End DevOps Pipeline Implementation.
+
+---
+
 ### 📈 My GitHub Stats
 
 [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=radical)](https://github.com/yourname)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact&theme=radical)](https://github.com/yourname)
-
----
-
-### 🚀 My Featured Projects
-
-- **[Terraform AWS EKS Cluster](https://github.com/yourname/terraform-aws-eks)** - Infrastructure as Code for a Kubernetes cluster.
-- **[CI/CD Pipeline for a React App](https://github.com/yourname/react-app-cicd)** - Full GitLab CI pipeline to build, test and deploy a React application to AWS S3.
-- **[Dockerized Full-Stack App](https://github.com/yourname/fullstack-docker-compose)** - A sample app with Docker and docker-compose.
 
 ---
 
