@@ -36,7 +36,7 @@
 ### 🏆 Certifications
 [![AWS Certified Solutions Architect Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/12345678-abc1-1234-5678-abc123456789/public_url)
 [![Cisco Certified Linux Unhatched](https://images.credly.com/size/110x110/images/f25ec9d4-c59d-49b9-944a-f160012e81cd/image.png)](https://www.credly.com/earner/earned/badge/fee78c47-2033-4f0a-a5e8-806d7bc456d7)
-[![Cisco Certified Networking Basics](https://images.credly.com/size/220x220/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png)](https://www.credly.com/earner/earned/badge/37901290-b0cd-4570-ba36-6078c4519159)
+[![Cisco Certified Networking Basics](https://images.credly.com/size/110x110/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png)](https://www.credly.com/earner/earned/badge/37901290-b0cd-4570-ba36-6078c4519159)
 
 ---
 
