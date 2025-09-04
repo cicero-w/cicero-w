@@ -12,6 +12,7 @@
 ### 🛠️ My Tech Stack
 
 **DevOps & Cloud:**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -29,6 +30,13 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+---
+
+### 🏆 Certifications
+[![AWS Certified Solutions Architect Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/12345678-abc1-1234-5678-abc123456789/public_url)
+[![HashiCorp Certified: Terraform Associate](https://images.credly.com/size/110x110/images/5c2c4e90-...-9d0a7b5b5b0a/image.png)](https://www.credly.com/badges/87654321-zyx9-8765-4321-zyx987654321/public_url)
+[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-...-16d2c6c4e66a/image.png)](https://www.credly.com/badges/11223344-cde5-6677-8899-cde511223344/public_url)
 
 ---
 
