@@ -64,5 +64,9 @@
 
 <a href="https://github.com/cicero-w" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cicero-w&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cicero-w&stroke=ffffff&background=171717&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](https://github.com/cicero-w)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cicero-w&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages)](https://github.com/cicero-w)
+
 
 
