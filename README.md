@@ -42,7 +42,7 @@
 
 ### 🚀 My Featured Projects
 
-- **[CloudNexus](https://github.com/cicero-w/devops-portfolio-project)** - End-to-End DevOps Pipeline Implementation.
+- **[GitOps & DevOps](https://github.com/cicero-w/devops-portfolio-project)** - From Code to Kubernetes on macOS
 
 ---
 
