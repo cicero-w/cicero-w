@@ -45,23 +45,5 @@ I build and maintain scalable, automated infrastructure and CI/CD pipelines. Exp
 
 - **[GitOps & DevOps](https://github.com/cicero-w/devops-portfolio-project)** - From Code to Kubernetes on macOS
 
----
-
-### 📈 My GitHub Stats
-
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=radical)](https://github.com/yourname)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact&theme=radical)](https://github.com/yourname)
-
----
-
-### 📫 How to reach me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourname/)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourname)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cicero-w&stroke=ffffff&background=171717&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](https://github.com/cicero-w)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cicero-w&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages)](https://github.com/cicero-w)
-
 
 
